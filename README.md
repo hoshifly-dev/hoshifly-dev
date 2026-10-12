@@ -19,8 +19,8 @@
 ```text
 ╭──────────────────────────────────────────────╮
 │  PLAYER : ʜᴏsʜɪ                               │
-│  CLASS  : Developer / Gamer / Editor          │
-│  OS     : Linux > Windows                     │
+│  CLASS  : Developer / Programming 
+│  OS     : Linux >>> Windows                     │
 │  STATUS : Learning, creating, repeat.         │
 ╰──────────────────────────────────────────────╯
 ```
