@@ -18,7 +18,7 @@
 
 ```text
 ╭──────────────────────────────────────────────╮
-│  PLAYER : Hushi                               │
+│  PLAYER : ʜᴏsʜɪ                               │
 │  CLASS  : Developer / Gamer / Editor          │
 │  OS     : Linux > Windows                     │
 │  STATUS : Learning, creating, repeat.         │
