@@ -65,13 +65,7 @@
 
 *Every problem is XP. Every mistake is part of the run.*
 
-</div>
 
-## `05` — EDITOR'S ROOM 🎬
-
-> Anime frames, music sync, transitions, effects — trying to make every edit feel alive.
-
-<div align="center">
 
 ![Anime](https://img.shields.io/badge/ANIME-frames%20%26%20stories-24101e?style=flat-square&labelColor=0d0d12)
 ![Editing](https://img.shields.io/badge/EDITING-sync%20%2F%20effects-24101e?style=flat-square&labelColor=0d0d12)
