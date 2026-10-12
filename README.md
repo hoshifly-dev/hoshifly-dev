@@ -30,7 +30,6 @@
 - 🎮 Curious about **game development** and what happens behind the screen
 - 🐧 Linux is home. I like tweaking my setup and learning how things work
 - 🧩 Sometimes grinding problems on **Codeforces** and **LeetCode**
-- 🎬 Into **anime edits**, timing, transitions, effects and finding the right vibe
 - 🌱 Still learning — here to build things, break them, fix them, and improve
 
 ## `02` — TECH LOADOUT
