@@ -1,6 +1,8 @@
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:17112b,100:5b21b6&height=210&section=header&text=Welcome, I'm Hoshi &fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Code.%20Create.%20Improve.%20Repeat.&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Hoshi"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:17112b,100:5b21b6&height=210&section=header&text=Welcome%2C%20I%27m%20Hoshi&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Code.%20Create.%20Improve.%20Repeat.&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Welcome, I'm Hoshi"/>
+
 
 ### `online alias • not my real name`
 
