@@ -85,6 +85,6 @@ learning in progress...
 
 **Stay curious. Keep creating. Enjoy the side quests.**
 
-`GG, thanks for visiting.` 🍒
+`GG, thanks for visiting.` 
 
 </div>
