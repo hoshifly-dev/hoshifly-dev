@@ -2,7 +2,7 @@
 
 # Hi, I'm Hushi 👋
 
-### `hushi.exe` — online alias, not my real name
+### online alias, not my real name
 
 *Welcome to my corner of the internet.*
 
