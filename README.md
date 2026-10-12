@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,45:3b102f,100:8b1e3f&height=190&section=header&text=ʜᴏsʜɪ&fontSize=68&fontColor=f5f0ff&fontAlignY=38&desc=dev%20%2F%20gamer%20%2F%20anime%20editor&descSize=16&descAlignY=62&animation=fadeIn" width="100%" alt="ʜᴏsʜɪ dark cherry banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=8b1e3f&height=220&section=header&text=HOSHI&fontSize=72&fontColor=f5f0ff&stroke=8b1e3f&desc=One%20step%20closer%20to%20the%20person%20I%20want%20to%20be.&descSize=13&descAlignY=75&animation=fadeIn" width="100%" alt="Hoshi — always improving"/>
 
 ### `online alias • not my real name`
 
