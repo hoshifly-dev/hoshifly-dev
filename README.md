@@ -6,7 +6,6 @@
 
 *Welcome to my corner of the internet.*
 
-![Dark gamer banner](https://placehold.co/1000x260/0b0b0f/e63946?text=HUSHI+%2F%2F+CODE+%E2%80%A2+LINUX+%E2%80%A2+GAMES&font=montserrat)
 
 </div>
 
