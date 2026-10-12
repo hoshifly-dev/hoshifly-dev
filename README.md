@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=8b1e3f&height=220&section=header&text=HOSHI&fontSize=72&fontColor=f5f0ff&stroke=8b1e3f&desc=One%20step%20closer%20to%20the%20person%20I%20want%20to%20be.&descSize=13&descAlignY=75&animation=fadeIn" width="100%" alt="Hoshi — always improving"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:17112b,100:5b21b6&height=210&section=header&text=HOSHI.exe&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Code.%20Create.%20Improve.%20Repeat.&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Hoshi.exe"/>
 
 ### `online alias • not my real name`
 
