@@ -64,13 +64,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-brain%20training-17141f?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/)
 
 *Every problem is XP. Every mistake is part of the run.*
-
-
-
-![Anime](https://img.shields.io/badge/ANIME-frames%20%26%20stories-24101e?style=flat-square&labelColor=0d0d12)
-![Editing](https://img.shields.io/badge/EDITING-sync%20%2F%20effects-24101e?style=flat-square&labelColor=0d0d12)
-![Gaming](https://img.shields.io/badge/GAMING-one%20more%20round-24101e?style=flat-square&labelColor=0d0d12)
-
 </div>
 
 ## `06` — TERMINAL LOG
