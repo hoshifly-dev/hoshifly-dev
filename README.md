@@ -5,8 +5,6 @@
 ### online alias, not my real name
 
 *Welcome to my corner of the internet.*
-
-
 </div>
 
 ## 🕹️ About Me
