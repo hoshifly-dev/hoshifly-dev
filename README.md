@@ -6,7 +6,7 @@
 
 ### `online alias • not my real name`
 
-*Welcome to my little corner of the internet.* 🍒
+*Welcome to my little corner of the internet.* 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=hoshifly-dev&style=flat-square&color=8b1e3f&label=PROFILE+VIEWS)](https://github.com/hoshifly-dev)
 [![GitHub](https://img.shields.io/badge/GitHub-0d0d12?style=flat-square&logo=github&logoColor=white)](https://github.com/hoshifly-dev)
